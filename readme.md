@@ -1,8 +1,7 @@
 # URDF Rviz2 시각화
 
-Activities: Humanoid (https://www.notion.so/Humanoid-2fcc63c739d2801a8a1ce0ea844ae3a8?pvs=21)
 
-# [ROS2 Humble] 외부 URDF 파일 Rviz2 시각화 및 디버깅 가이드
+## [ROS2 Humble] 외부 URDF 파일 Rviz2 시각화 및 디버깅 가이드
 
 ## 🎯 개요
 
