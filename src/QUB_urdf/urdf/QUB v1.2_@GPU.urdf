@@ -25,7 +25,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file:///Users/jae/Library/Mobile Documents/com~apple~CloudDocs/KUDOS/Humanoid/8. URDF 작업/URDF_study/src/QUB_urdf/meshes/base_link.STL" />
+          filename="file:///home/qub1/Jaebin/URDF_study/src/QUB_urdf/meshes/base_link.STL" />
       </geometry>
       <material name="">
         <color
@@ -63,7 +63,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file:///Users/jae/Library/Mobile Documents/com~apple~CloudDocs/KUDOS/Humanoid/8. URDF 작업/URDF_study/src/QUB_urdf/meshes/pelvis_link.STL" />
+          filename="file:///home/qub1/Jaebin/URDF_study/src/QUB_urdf/meshes/pelvis_link.STL" />
       </geometry>
       <material name="">
         <color
@@ -76,7 +76,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file:///Users/jae/Library/Mobile Documents/com~apple~CloudDocs/KUDOS/Humanoid/8. URDF 작업/URDF_study/src/QUB_urdf/meshes/collision/pelvis_link.STL" />
+          filename="file:///home/qub1/Jaebin/URDF_study/src/QUB_urdf/meshes/collision/pelvis_link.STL" />
       </geometry>
     </collision>
   </link>
@@ -115,7 +115,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file:///Users/jae/Library/Mobile Documents/com~apple~CloudDocs/KUDOS/Humanoid/8. URDF 작업/URDF_study/src/QUB_urdf/meshes/R_hip_r_link.STL" />
+          filename="file:///home/qub1/Jaebin/URDF_study/src/QUB_urdf/meshes/R_hip_r_link.STL" />
       </geometry>
       <material name="">
         <color
@@ -128,7 +128,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file:///Users/jae/Library/Mobile Documents/com~apple~CloudDocs/KUDOS/Humanoid/8. URDF 작업/URDF_study/src/QUB_urdf/meshes/collision/R_hip_r_link.STL" />
+          filename="file:///home/qub1/Jaebin/URDF_study/src/QUB_urdf/meshes/collision/R_hip_r_link.STL" />
       </geometry>
     </collision>
   </link>
@@ -167,7 +167,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file:///Users/jae/Library/Mobile Documents/com~apple~CloudDocs/KUDOS/Humanoid/8. URDF 작업/URDF_study/src/QUB_urdf/meshes/R_hip_y_link.STL" />
+          filename="file:///home/qub1/Jaebin/URDF_study/src/QUB_urdf/meshes/R_hip_y_link.STL" />
       </geometry>
       <material name="">
         <color
@@ -180,7 +180,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file:///Users/jae/Library/Mobile Documents/com~apple~CloudDocs/KUDOS/Humanoid/8. URDF 작업/URDF_study/src/QUB_urdf/meshes/collision/R_hip_y_link.STL" />
+          filename="file:///home/qub1/Jaebin/URDF_study/src/QUB_urdf/meshes/collision/R_hip_y_link.STL" />
       </geometry>
     </collision>
   </link>
@@ -219,7 +219,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file:///Users/jae/Library/Mobile Documents/com~apple~CloudDocs/KUDOS/Humanoid/8. URDF 작업/URDF_study/src/QUB_urdf/meshes/R_thigh_link.STL" />
+          filename="file:///home/qub1/Jaebin/URDF_study/src/QUB_urdf/meshes/R_thigh_link.STL" />
       </geometry>
       <material name="">
         <color
@@ -232,7 +232,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file:///Users/jae/Library/Mobile Documents/com~apple~CloudDocs/KUDOS/Humanoid/8. URDF 작업/URDF_study/src/QUB_urdf/meshes/collision/R_thigh_link.STL" />
+          filename="file:///home/qub1/Jaebin/URDF_study/src/QUB_urdf/meshes/collision/R_thigh_link.STL" />
       </geometry>
     </collision>
   </link>
@@ -271,7 +271,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file:///Users/jae/Library/Mobile Documents/com~apple~CloudDocs/KUDOS/Humanoid/8. URDF 작업/URDF_study/src/QUB_urdf/meshes/R_calf_link.STL" />
+          filename="file:///home/qub1/Jaebin/URDF_study/src/QUB_urdf/meshes/R_calf_link.STL" />
       </geometry>
       <material name="">
         <color
@@ -284,7 +284,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file:///Users/jae/Library/Mobile Documents/com~apple~CloudDocs/KUDOS/Humanoid/8. URDF 작업/URDF_study/src/QUB_urdf/meshes/collision/R_calf_link.STL" />
+          filename="file:///home/qub1/Jaebin/URDF_study/src/QUB_urdf/meshes/collision/R_calf_link.STL" />
       </geometry>
     </collision>
   </link>
@@ -323,7 +323,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file:///Users/jae/Library/Mobile Documents/com~apple~CloudDocs/KUDOS/Humanoid/8. URDF 작업/URDF_study/src/QUB_urdf/meshes/R_ankle_link.STL" />
+          filename="file:///home/qub1/Jaebin/URDF_study/src/QUB_urdf/meshes/R_ankle_link.STL" />
       </geometry>
       <material name="">
         <color
@@ -336,7 +336,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file:///Users/jae/Library/Mobile Documents/com~apple~CloudDocs/KUDOS/Humanoid/8. URDF 작업/URDF_study/src/QUB_urdf/meshes/collision/R_ankle_link.STL" />
+          filename="file:///home/qub1/Jaebin/URDF_study/src/QUB_urdf/meshes/collision/R_ankle_link.STL" />
       </geometry>
     </collision>
   </link>
@@ -375,7 +375,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file:///Users/jae/Library/Mobile Documents/com~apple~CloudDocs/KUDOS/Humanoid/8. URDF 작업/URDF_study/src/QUB_urdf/meshes/R_foot_link.STL" />
+          filename="file:///home/qub1/Jaebin/URDF_study/src/QUB_urdf/meshes/R_foot_link.STL" />
       </geometry>
       <material name="">
         <color
@@ -388,7 +388,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file:///Users/jae/Library/Mobile Documents/com~apple~CloudDocs/KUDOS/Humanoid/8. URDF 작업/URDF_study/src/QUB_urdf/meshes/collision/R_foot_link.STL" />
+          filename="file:///home/qub1/Jaebin/URDF_study/src/QUB_urdf/meshes/collision/R_foot_link.STL" />
       </geometry>
     </collision>
   </link>
@@ -427,7 +427,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file:///Users/jae/Library/Mobile Documents/com~apple~CloudDocs/KUDOS/Humanoid/8. URDF 작업/URDF_study/src/QUB_urdf/meshes/L_hip_r_link.STL" />
+          filename="file:///home/qub1/Jaebin/URDF_study/src/QUB_urdf/meshes/L_hip_r_link.STL" />
       </geometry>
       <material name="">
         <color
@@ -440,7 +440,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file:///Users/jae/Library/Mobile Documents/com~apple~CloudDocs/KUDOS/Humanoid/8. URDF 작업/URDF_study/src/QUB_urdf/meshes/collision/L_hip_r_link.STL" />
+          filename="file:///home/qub1/Jaebin/URDF_study/src/QUB_urdf/meshes/collision/L_hip_r_link.STL" />
       </geometry>
     </collision>
   </link>
@@ -479,7 +479,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file:///Users/jae/Library/Mobile Documents/com~apple~CloudDocs/KUDOS/Humanoid/8. URDF 작업/URDF_study/src/QUB_urdf/meshes/L_hip_y_link.STL" />
+          filename="file:///home/qub1/Jaebin/URDF_study/src/QUB_urdf/meshes/L_hip_y_link.STL" />
       </geometry>
       <material name="">
         <color
@@ -492,7 +492,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file:///Users/jae/Library/Mobile Documents/com~apple~CloudDocs/KUDOS/Humanoid/8. URDF 작업/URDF_study/src/QUB_urdf/meshes/collision/L_hip_y_link.STL" />
+          filename="file:///home/qub1/Jaebin/URDF_study/src/QUB_urdf/meshes/collision/L_hip_y_link.STL" />
       </geometry>
     </collision>
   </link>
@@ -531,7 +531,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file:///Users/jae/Library/Mobile Documents/com~apple~CloudDocs/KUDOS/Humanoid/8. URDF 작업/URDF_study/src/QUB_urdf/meshes/L_thigh_link.STL" />
+          filename="file:///home/qub1/Jaebin/URDF_study/src/QUB_urdf/meshes/L_thigh_link.STL" />
       </geometry>
       <material name="">
         <color
@@ -544,7 +544,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file:///Users/jae/Library/Mobile Documents/com~apple~CloudDocs/KUDOS/Humanoid/8. URDF 작업/URDF_study/src/QUB_urdf/meshes/collision/L_thigh_link.STL" />
+          filename="file:///home/qub1/Jaebin/URDF_study/src/QUB_urdf/meshes/collision/L_thigh_link.STL" />
       </geometry>
     </collision>
   </link>
@@ -583,7 +583,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file:///Users/jae/Library/Mobile Documents/com~apple~CloudDocs/KUDOS/Humanoid/8. URDF 작업/URDF_study/src/QUB_urdf/meshes/L_calf_link.STL" />
+          filename="file:///home/qub1/Jaebin/URDF_study/src/QUB_urdf/meshes/L_calf_link.STL" />
       </geometry>
       <material name="">
         <color
@@ -596,7 +596,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file:///Users/jae/Library/Mobile Documents/com~apple~CloudDocs/KUDOS/Humanoid/8. URDF 작업/URDF_study/src/QUB_urdf/meshes/collision/L_calf_link.STL" />
+          filename="file:///home/qub1/Jaebin/URDF_study/src/QUB_urdf/meshes/collision/L_calf_link.STL" />
       </geometry>
     </collision>
   </link>
@@ -635,7 +635,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file:///Users/jae/Library/Mobile Documents/com~apple~CloudDocs/KUDOS/Humanoid/8. URDF 작업/URDF_study/src/QUB_urdf/meshes/L_ankle_link.STL" />
+          filename="file:///home/qub1/Jaebin/URDF_study/src/QUB_urdf/meshes/L_ankle_link.STL" />
       </geometry>
       <material name="">
         <color
@@ -648,7 +648,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file:///Users/jae/Library/Mobile Documents/com~apple~CloudDocs/KUDOS/Humanoid/8. URDF 작업/URDF_study/src/QUB_urdf/meshes/collision/L_ankle_link.STL" />
+          filename="file:///home/qub1/Jaebin/URDF_study/src/QUB_urdf/meshes/collision/L_ankle_link.STL" />
       </geometry>
     </collision>
   </link>
@@ -687,7 +687,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file:///Users/jae/Library/Mobile Documents/com~apple~CloudDocs/KUDOS/Humanoid/8. URDF 작업/URDF_study/src/QUB_urdf/meshes/L_foot_link.STL" />
+          filename="file:///home/qub1/Jaebin/URDF_study/src/QUB_urdf/meshes/L_foot_link.STL" />
       </geometry>
       <material name="">
         <color
@@ -700,7 +700,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file:///Users/jae/Library/Mobile Documents/com~apple~CloudDocs/KUDOS/Humanoid/8. URDF 작업/URDF_study/src/QUB_urdf/meshes/collision/L_foot_link.STL" />
+          filename="file:///home/qub1/Jaebin/URDF_study/src/QUB_urdf/meshes/collision/L_foot_link.STL" />
       </geometry>
     </collision>
   </link>
